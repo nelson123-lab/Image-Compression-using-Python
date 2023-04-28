@@ -25,3 +25,6 @@ tensorflow-io: tensorflow-io is a library for loading and processing various fil
 Pillow-SIMD: Pillow-SIMD is a drop-in replacement for the Pillow library that uses SIMD (Single Instruction Multiple Data) instructions to accelerate image processing tasks, including image compression.
 
 All of these libraries offer different compression techniques and features. You can choose the one that best suits your needs based on your specific use case.
+
+Using Tensorflow
+
