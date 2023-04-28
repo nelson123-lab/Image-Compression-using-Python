@@ -26,5 +26,5 @@ Pillow-SIMD: Pillow-SIMD is a drop-in replacement for the Pillow library that us
 
 All of these libraries offer different compression techniques and features. You can choose the one that best suits your needs based on your specific use case.
 
-Using Tensorflow
+# Using Tensorflow
 
